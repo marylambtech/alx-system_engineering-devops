@@ -1,0 +1,19 @@
+This directory is created by Mariam A. Ibrahim. It contains project task files on 0x01. Shell, permissions. The files includes:
+1. 0-iam_betty
+2. 1-who_am_i
+3. 2-groups
+4. 3-new_owner
+5. 4-empty
+6. 5-execute
+7. 6-multiple_permissions
+8. 7-everybody
+9. 8-James_Bond
+10. 9-John_Doe
+11. 10-mirror_permissions
+12. 11-directories_permissions
+13. 12-directory_permissions
+14. 13-change_group
+15. 100-change_owner_and_group
+16. 101-symbolic_link_permissions
+17. 102-if_only
+18. 103-Star_Wars
