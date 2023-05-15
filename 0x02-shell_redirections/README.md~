@@ -1,0 +1,10 @@
+This directory contains files for 0x02. Shell, I/O Redirections and filters tasks. The files include;
+1. 0-hello_world
+2. 1-confused_smiley
+3. 2-hellofile
+4. 3-twofiles
+5. 4-lastlines
+6. 5-firstlines
+7. 6-third_line
+8. 7-file
+9. 8-cwd_state
