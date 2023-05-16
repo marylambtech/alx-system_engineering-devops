@@ -1,0 +1,19 @@
+This directory contains files for tasks 0x03. Shell, init files, variables and expansions. The files included are:
+1. 0-alias
+2. 1-hello_you
+3. 2-path
+4. 3-paths
+5. 4-global_variables
+6. 5-local_variables
+7. 6-create_local_variable
+8. 7-create_global_variable
+9. 8-true_knowledge
+10. 9-divide_and_rule
+11. 10-love_exponent_breath
+12. 11-binary_to_decimal
+13. 12-combinations
+14. 13-print_float
+15. 100-decimal_to_hexadecimal
+16. 101-rot13
+17. 102-odd
+18. 103-water_and_stir
