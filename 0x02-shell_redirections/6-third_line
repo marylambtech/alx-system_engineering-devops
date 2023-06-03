@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -n --lines =[2] | head iacta
+head --lines=3 iacta | tail --lines=1
